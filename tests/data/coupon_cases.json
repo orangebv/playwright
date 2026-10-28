@@ -1,0 +1,9 @@
+[
+  {
+    "id": "invalid-then-double11-5percent",
+    "invalid_code": "pcode2026111111",
+    "valid_code": "pcode20261022",
+    "discount_name": "Double 11 discount",
+    "discount_rate": "0.05"
+  }
+]
